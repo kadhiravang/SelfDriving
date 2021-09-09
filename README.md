@@ -360,9 +360,6 @@ CONCLUSION
       Thus the self-parking car simulation is done and made working properly in Unity Api. This same prefab developed using reinforcement learning to implement self driving cars in any game developed and this idea can be used in self parking cars in real life using this idea. Time saving is going to play a major role in the upcoming years and this self parking system will help in saving a lot of it. This has the potential to provide confidence to even amateur drivers while parking at tight spots. Using this prefab in game development will help us to save a lot of time and labor put into programming.
 
 
-
-
-
 References:
 1)	https://medium.com/xrpractices/autonomous-car-parking-using-ml-agents-d780a366fe46
 2)	https://www.codemonkey.com/
@@ -372,3 +369,30 @@ References:
 
 NOTE: Since files were too big to upload i have attached it in this drive link below:
 https://drive.google.com/drive/folders/1hf4sGQmgNJGvDrrA1PUMunKJbAggqaYq?usp=sharing
+
+VERSIONS OF PACKAGES USED IN PACKAGE MANAGER:
+► Cinemachine		2.6.4
+
+
+► Rider Editor		1.1.4
+
+
+► ML Agents		1.6.0
+
+
+►Test Framework		1.1.22
+
+
+►TextMeshPro		2.1.1
+
+
+► Timeline		1.2.18
+
+
+► Unity Collaborate	1.2.16
+
+
+►Unity UI		1.0.0
+
+
+► Visual Studio Code Editor	1.2.3
