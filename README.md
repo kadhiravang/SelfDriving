@@ -10,15 +10,7 @@ ABSTRACT
 
 
 
-
-
-
-
-
-
-
-
-            TABLE OF CONTENTS
+TABLE OF CONTENTS
 
 CHAPTER NO.	TITLE	PAGE NO.
 	ABSTRACT	4
@@ -377,3 +369,5 @@ References:
 3)	https://towardsdatascience.com/reinforcement-learning-a-self-driving-car-ai-in-unity-60b0e7a10d9e
 4)	https://bhargav265.github.io/Simulation_of_self_driving_car/
 5)	https://www.youtube.com/watch?v=pdE3fXRoyjI
+
+NOTE: Since files were too big to upload i have attached it in this drive link below:
